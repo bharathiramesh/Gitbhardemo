@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-3OT4R57" name="Academy.ValidateNavigationBar" tests="1" failures="0" timestamp="28 Feb 2019 03:59:28 GMT" time="10.989" errors="0">
+  <testcase name="contactnavigationbar" time="10.976" classname="Academy.ValidateNavigationBar"/>
+</testsuite>

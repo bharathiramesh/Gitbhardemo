@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-3OT4R57" name="Academy.HomePage" tests="4" failures="0" timestamp="1 Mar 2019 04:45:52 GMT" time="39.593" errors="0">
+  <testcase name="basePagenavigation" time="10.55" classname="Academy.HomePage"/>
+  <testcase name="basePagenavigation" time="4.575" classname="Academy.HomePage"/>
+  <testcase name="contactnavigationbar" time="0.069" classname="Academy.ValidateNavigationBar"/>
+  <testcase name="title" time="0.09" classname="Academy.validateTitle"/>
+</testsuite>
